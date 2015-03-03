@@ -8,5 +8,5 @@ project-date: March 2014
 client: You!
 category: Shirt
 description: A shirt with a lovely picture of your future webmaster!
-
+            And soon it could be yours! ;)
 ---
