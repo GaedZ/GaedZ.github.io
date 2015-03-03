@@ -1,17 +1,17 @@
 # Site settings
-title: Georg Zänker (under Construction)
-email: contact@georgzaenker.de
+title: Georg Zänker
+email: georg.zanker14@imperial.ac.uk
 url: https://gaedz.github.io
-description: "Personal Website of Georg Zänker (under Construction)"
+description: "Vote Georg for Webmaster 2015!"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ccffff #80B3FF
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 80B3FF
+  secondary: FD6E8A
+  secondary-dark: A2122F
 
 # Footer settings
 footer:
@@ -25,17 +25,15 @@ social:
   - title: twitter
     url: https://twitter.com/GeorgZaenker
   - title: facebook
-    url: https://www.facebook.com/Rekneaz
-  - title: stack-overflow
-    url: http://stackoverflow.com/users/2782850/georg-zänker
+    url: https://www.facebook.com/georgdocsocwebmaster
   - title: github
     url: https://github.com/GaedZ
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Matthieustr. 9
-  - line: 13127 Berlin
-  - line: Germany
+  - line: Computing Labs
+  - line: 219 Huxley
+  - line: Imperial College
 
 # Credits content
 credits: 'No Credits'
