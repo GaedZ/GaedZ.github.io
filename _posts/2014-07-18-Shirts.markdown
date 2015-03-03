@@ -2,12 +2,11 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: sticker.png
+img: cabin.png
 alt: image-alt
-project-date: March 2015
-client: You!
+project-date: April 2014
+client: Start Bootstrap
 category: Sticker
 description: A beautiful, hear shaped sticker, with your webmaster 2015!
-             If you want one for a small donation, give me shout!
 
 ---
