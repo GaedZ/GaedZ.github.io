@@ -7,6 +7,6 @@ alt: image-alt
 project-date: March 2015
 client: You!
 category: Sticker
-description: A beautiful, heart shaped sticker, with your webmaster 2015 on it!
+description: A beautiful, hear shaped sticker, with your webmaster 2015!
             Get one for a small donation!
 ---
