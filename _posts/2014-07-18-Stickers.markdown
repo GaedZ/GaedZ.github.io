@@ -2,9 +2,9 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: sticker.png
 alt: image-alt
-project-date: April 2014
+project-date: March 2015
 client: You!
 category: Sticker
 description: A beautiful, hear shaped sticker, with your webmaster 2015!
