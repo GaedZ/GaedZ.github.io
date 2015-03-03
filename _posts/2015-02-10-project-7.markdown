@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2015-03-04
+img: mug.png
 alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+project-date: March 2015
+client: You!
+category: Mug
+description: A mug with a lovely picture of your future webmaster!
 
 ---
